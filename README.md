@@ -11,7 +11,7 @@ Data was cleaned and prepared for analysis
 
 ## Repository Contents
 
-### 1 RFM_project.sql file,  where Recency, Frequency and Monetary value was computed, determined quintiles for RFM, scores assigned to customers as well as defined the segments (attached)
+### 1 RFM_project.sql file,  where Recency, Frequency and Monetary value were computed, determined quintiles for RFM, scores assigned to customers as well as defined the segments (attached)  
 
 ### 2 RFM Dashboard in Tableau: [view](https://public.tableau.com/app/profile/aliaksandr.parkhomenka/viz/RFManalysis_v2/Dashboard1)
 
