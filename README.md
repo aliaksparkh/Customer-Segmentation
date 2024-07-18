@@ -1,13 +1,13 @@
 # Project Customer Segmentation  
 **Welcome to my project**
-### Purpose
-Analyze customers based on their buying habits to enable targeted marketing strategies and improve customer retention and sales.
+### Aim of the project
+Analyze customers, based on their buying habits to enable targeted marketing strategies and improve customer retention and sales.
 
 ### Source of Data
-Data is sourced from the Turing College dataset.
+Data is sourced from the Turing College dataset 'rfm'.
 
 ### Data Preparation
-Data was cleaned and prepared for analysis
+Data was cleaned and prepared for the analysis.
 
 ## Repository Contents
 
